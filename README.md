@@ -1,4 +1,4 @@
-# open-carpool
+# OpenCarpool
 Open source carpooling app using Google Maps, built for community activities 
 
 # Features [ As we progress ]
@@ -6,3 +6,4 @@ Open source carpooling app using Google Maps, built for community activities
  - Login / Signin / Logout / Forgot Password
  - Register Vehicle [Signin / After Signin]
  - Create a Pool [ Rider / Passenger ]
+
